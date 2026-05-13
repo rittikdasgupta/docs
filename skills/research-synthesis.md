@@ -1,5 +1,5 @@
 ---
-name: research-synthesis-rittik
+name: research-catalog-rittik
 kind: skill
 uses:
   - prompts/base-analysis
